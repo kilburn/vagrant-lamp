@@ -1,0 +1,11 @@
+phpmyadmin	phpmyadmin/mysql/admin-pass	password	vagrant
+phpmyadmin	phpmyadmin/app-password-confirm	password	vagrant
+phpmyadmin	phpmyadmin/password-confirm	password	vagrant
+phpmyadmin	phpmyadmin/setup-password	password	vagrant
+phpmyadmin	phpmyadmin/setup-username	string	admin
+phpmyadmin	phpmyadmin/database-type	select	mysql
+phpmyadmin	phpmyadmin/mysql/admin-user	string	root
+phpmyadmin	phpmyadmin/mysql/app-pass	password	
+phpmyadmin	phpmyadmin/reconfigure-webserver	multiselect	apache2
+mysql-server-5.5	mysql-server/root_password_again	password	vagrant
+mysql-server-5.5	mysql-server/root_password	password	vagrant
